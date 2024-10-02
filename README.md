@@ -13,4 +13,5 @@
 - I am open to helping in projects.
 
 # Contacts
-[Email](https://darrenchasepapa@gmail.com)
+- Email: `https://darrenchasepapa@gmail.com`
+- Facebook: `Darren Papa`
