@@ -1,9 +1,10 @@
 # Info About Me
 
 ## Things I do
-- I made SBPL and other programming languages.
+- I made DuProL and other programming languages.
 - I have 6 years of experience in python.
 - I program in python and c for fun. Im a lil rusty in c.
+- I upgraded Bython to Bython2.0 :)
 
 ## Personal Stuff
 - Age 15
