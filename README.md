@@ -7,7 +7,7 @@
 - I upgraded Bython to Bython2.0 :)
 
 ## Personal Stuff
-- Age 15
+- Age 16
 - Programming helps me calm down and organize my thoughts.
 
 ## Other
